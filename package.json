@@ -1,0 +1,24 @@
+{
+  "name": "geolocation-backend",
+  "version": "1.0.0",
+  "description": "Geolocation Handler Site",
+  "homepage": "https://github.com/pb-06/geolocation-backend#readme",
+  "bugs": {
+    "url": "https://github.com/pb-06/geolocation-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pb-06/geolocation-backend.git"
+  },
+  "license": "ISC",
+  "author": "pb-06",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  }
+}
